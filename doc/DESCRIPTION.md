@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+Froxlor is the lightweight server management software for your needs.

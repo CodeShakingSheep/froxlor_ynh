@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+Froxlor is the lightweight server management software for your needs.

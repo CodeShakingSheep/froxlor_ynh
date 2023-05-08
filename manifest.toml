@@ -2,8 +2,8 @@ packaging_format = 2
 
 id = "froxlor"
 name = "Froxlor"
-description.en = "server administration software for your needs"
-description.fr = "server administration software for your needs"
+description.en = "Server administration software for your needs"
+description.fr = "Logiciel d'administration de serveur adapté à vos besoins"
 
 version = "2.0.19~ynh1"
 
@@ -12,6 +12,7 @@ maintainers = ["eric_G"]
 [upstream]
 license = "GPL-2.0"
 website = "www.froxlor.org"
+admindoc = "https://docs.froxlor.org/latest/"
 code = "https://github.com/Froxlor/Froxlor/"
 
 [integration]
